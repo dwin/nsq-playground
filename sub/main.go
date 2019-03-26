@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/dwin/nsq-example/base"
+	"github.com/dwin/nsq-playground/base"
 
 	"log"
 

@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/dwin/nsq-example/base"
+	"github.com/dwin/nsq-playground/base"
 	"github.com/icrowley/fake"
 
 	jsoniter "github.com/json-iterator/go"
